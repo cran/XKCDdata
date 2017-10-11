@@ -1,0 +1,12 @@
+88012afd658500549ac131e490beb62a *DESCRIPTION
+7bae49302c3e6bdfdfe1375f5851c868 *LICENSE
+5fc4e9dc8e5a87775e6e1b4c5f5adc65 *NAMESPACE
+54c9059f18c26e1292eee049488e23db *R/get_comic.R
+66af3e675324bf4f59466644bf5b797b *R/print_xkcd.R
+f583f5b5856f7cb5f2c5fbb04f39f8a8 *R/xxx.R
+754605c428e43dd659cb24f53e19de05 *README.md
+af0377e401948edab5a52a0475600449 *man/get_comic.Rd
+71b87779ce7fc17d3e315e310d911acb *man/pipe.Rd
+ce89af5fbda7b052834a80111af013ab *man/print_xkcd.Rd
+5a0a2f4b4bed4344d17b4bdb09bb2039 *tests/testthat.R
+e18b9c52eb0df47a3a885f76fd44843d *tests/testthat/test-tibble_creation.R
